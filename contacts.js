@@ -1,8 +1,3 @@
-/*
- * Розкоментуй і запиши значення
- * const contactsPath = ;
- */
-
 const fs = require("fs/promises");
 const path = require("path");
 const { nanoid } = require("nanoid");
